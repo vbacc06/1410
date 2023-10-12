@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "gradient-string": "^2.0.2",
+    "header-generator": "^2.1.38",
+    "user-agents": "^1.0.1444"
+  }
+}
